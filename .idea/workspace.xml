@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c87a9d95-1094-4f4b-9223-fffa89e63a49" name="Changes" comment="">
+    <list default="true" id="c87a9d95-1094-4f4b-9223-fffa89e63a49" name="Changes" comment="1&#10;2&#10;3&#10;4&#10;5">
+      <change afterPath="$PROJECT_DIR$/src/happyNumber/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/happyNumber/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/largestPerimeterTriangle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/largestPerimeterTriangle/SolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,33 +53,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/robertmilicevic/Desktop/ITHS-Utbildning-JAVA/Udemy/MyCalculator&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "/home/robertmilicevic/Desktop/ITHS-Utbildning-JAVA/Udemy/MyCalculator",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="middleOfTheLinkedList" />
@@ -85,14 +89,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="happryNumber" />
+      <recent name="largestPerimeterTriangle" />
       <recent name="CountOddNUmbersInAnIntervalRange" />
       <recent name="mergeStringAlternately" />
       <recent name="checkIfTwoStringArraysAreEquivalent" />
-      <recent name="shuffleString" />
-      <recent name="reverseString" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest (1)">
+  <component name="RunManager" selected="Application.singleNumber.Main">
     <configuration name="singleNumber.Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="singleNumber.Main" />
       <module name="leetCode" />
@@ -121,65 +125,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.testLongNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CountOddNUmbersInAnIntervalRange.*" />
+          <option name="PATTERN" value="largestPerimeterTriangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CountOddNUmbersInAnIntervalRange" />
-      <option name="MAIN_CLASS_NAME" value="CountOddNUmbersInAnIntervalRange.SolutionTest" />
-      <option name="METHOD_NAME" value="testLongNumbers" />
+      <option name="PACKAGE_NAME" value="largestPerimeterTriangle" />
+      <option name="MAIN_CLASS_NAME" value="largestPerimeterTriangle.SolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.example1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="largestPerimeterTriangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="largestPerimeterTriangle" />
+      <option name="MAIN_CLASS_NAME" value="largestPerimeterTriangle.SolutionTest" />
+      <option name="METHOD_NAME" value="example1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.testing3and7result3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.example1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CountOddNUmbersInAnIntervalRange.*" />
+          <option name="PATTERN" value="happyNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CountOddNUmbersInAnIntervalRange" />
-      <option name="MAIN_CLASS_NAME" value="CountOddNUmbersInAnIntervalRange.SolutionTest" />
-      <option name="METHOD_NAME" value="testing3and7result3" />
+      <option name="PACKAGE_NAME" value="happryNumber" />
+      <option name="MAIN_CLASS_NAME" value="happyNumber.SolutionTest" />
+      <option name="METHOD_NAME" value="example1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.testing8and10result1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.example2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CountOddNUmbersInAnIntervalRange.*" />
+          <option name="PATTERN" value="largestPerimeterTriangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CountOddNUmbersInAnIntervalRange" />
-      <option name="MAIN_CLASS_NAME" value="CountOddNUmbersInAnIntervalRange.SolutionTest" />
-      <option name="METHOD_NAME" value="testing8and10result1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolutionTest.thirdsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mergeStringAlternately.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="mergeStringAlternately" />
-      <option name="MAIN_CLASS_NAME" value="mergeStringAlternately.SolutionTest" />
-      <option name="METHOD_NAME" value="thirdsTest" />
+      <option name="PACKAGE_NAME" value="largestPerimeterTriangle" />
+      <option name="MAIN_CLASS_NAME" value="largestPerimeterTriangle.SolutionTest" />
+      <option name="METHOD_NAME" value="example2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -187,15 +190,17 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.SolutionTest.example1" />
+        <item itemvalue="JUnit.SolutionTest.example2" />
         <item itemvalue="JUnit.SolutionTest (1)" />
-        <item itemvalue="JUnit.SolutionTest.testLongNumbers" />
-        <item itemvalue="JUnit.SolutionTest.testing8and10result1" />
-        <item itemvalue="JUnit.SolutionTest.testing3and7result3" />
-        <item itemvalue="JUnit.SolutionTest.thirdsTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c87a9d95-1094-4f4b-9223-fffa89e63a49" name="Changes" comment="" />
@@ -266,6 +271,11 @@
       <workItem from="1676303553633" duration="6030000" />
       <workItem from="1676309718259" duration="547000" />
       <workItem from="1676365279454" duration="1987000" />
+      <workItem from="1676657988307" duration="1250000" />
+      <workItem from="1676672651034" duration="1214000" />
+      <workItem from="1676711897620" duration="1205000" />
+      <workItem from="1676810026547" duration="2750000" />
+      <workItem from="1676894806116" duration="205000" />
     </task>
     <task id="LOCAL−00001" summary="2.day">
       <created>1671274569975</created>
@@ -363,7 +373,42 @@
       <option name="project" value="LOCAL" />
       <updated>1676292081652</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="1">
+      <created>1676658044624</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676658044624</updated>
+    </task>
+    <task id="LOCAL-00016" summary="1&#10;2">
+      <created>1676658066580</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1676658066580</updated>
+    </task>
+    <task id="LOCAL-00017" summary="1&#10;2&#10;3">
+      <created>1676658081893</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1676658081893</updated>
+    </task>
+    <task id="LOCAL-00018" summary="1&#10;2&#10;3&#10;4">
+      <created>1676658095020</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676658095020</updated>
+    </task>
+    <task id="LOCAL-00019" summary="1&#10;2&#10;3&#10;4&#10;5">
+      <created>1676658217508</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1676658217508</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,7 +436,12 @@
     <MESSAGE value="testing git squash" />
     <MESSAGE value="testing git squash." />
     <MESSAGE value="testing git squash.." />
-    <option name="LAST_COMMIT_MESSAGE" value="testing git squash.." />
+    <MESSAGE value="1" />
+    <MESSAGE value="1&#10;2" />
+    <MESSAGE value="1&#10;2&#10;3" />
+    <MESSAGE value="1&#10;2&#10;3&#10;4" />
+    <MESSAGE value="1&#10;2&#10;3&#10;4&#10;5" />
+    <option name="LAST_COMMIT_MESSAGE" value="1&#10;2&#10;3&#10;4&#10;5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
