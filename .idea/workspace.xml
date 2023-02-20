@@ -85,14 +85,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="sumOfAllOddLenthSubarrays" />
       <recent name="canMakeArithmeticProgressionFromSquence" />
       <recent name="checkIfOneStringSwapCanMakeStgringsEqual" />
       <recent name="happryNumber" />
       <recent name="largestPerimeterTriangle" />
-      <recent name="CountOddNUmbersInAnIntervalRange" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest">
+  <component name="RunManager" selected="JUnit.SolutionTest.example1 (2)">
     <configuration name="singleNumber.Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="singleNumber.Main" />
       <module name="leetCode" />
@@ -121,16 +121,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.example1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.example1 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="checkIfOneStringSwapCanMakeStgringsEqual.*" />
+          <option name="PATTERN" value="sumOfAllOddLenthSubarrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="checkIfOneStringSwapCanMakeStgringsEqual" />
-      <option name="MAIN_CLASS_NAME" value="checkIfOneStringSwapCanMakeStgringsEqual.SolutionTest" />
+      <option name="PACKAGE_NAME" value="sumOfAllOddLenthSubarrays" />
+      <option name="MAIN_CLASS_NAME" value="sumOfAllOddLenthSubarrays.SolutionTest" />
       <option name="METHOD_NAME" value="example1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -169,16 +169,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.example2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.example2 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="canMakeArithmeticProgressionFromSquence.*" />
+          <option name="PATTERN" value="sumOfAllOddLenthSubarrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="canMakeArithmeticProgressionFromSquence" />
-      <option name="MAIN_CLASS_NAME" value="canMakeArithmeticProgressionFromSquence.SolutionTest" />
+      <option name="PACKAGE_NAME" value="sumOfAllOddLenthSubarrays" />
+      <option name="MAIN_CLASS_NAME" value="sumOfAllOddLenthSubarrays.SolutionTest" />
       <option name="METHOD_NAME" value="example2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -203,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.example1 (2)" />
+        <item itemvalue="JUnit.SolutionTest.example2 (1)" />
         <item itemvalue="JUnit.SolutionTest" />
         <item itemvalue="JUnit.SolutionTest.example1" />
         <item itemvalue="JUnit.SolutionTest.example3" />
-        <item itemvalue="JUnit.SolutionTest.example2" />
-        <item itemvalue="JUnit.SolutionTest.example1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +289,7 @@
       <workItem from="1676672651034" duration="1214000" />
       <workItem from="1676711897620" duration="1205000" />
       <workItem from="1676810026547" duration="2750000" />
-      <workItem from="1676894806116" duration="5895000" />
+      <workItem from="1676894806116" duration="7857000" />
     </task>
     <task id="LOCAL−00001" summary="2.day">
       <created>1671274569975</created>
